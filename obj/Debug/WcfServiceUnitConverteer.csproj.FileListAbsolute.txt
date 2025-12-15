@@ -1,0 +1,7 @@
+C:\Users\attak\OneDrive - Leeds Beckett University\Cloud Computing\UnitConverterCloudService\WcfServiceUnitConverteer\WcfServiceUnitConverteer\bin\WcfServiceUnitConverteer.dll.config
+C:\Users\attak\OneDrive - Leeds Beckett University\Cloud Computing\UnitConverterCloudService\WcfServiceUnitConverteer\WcfServiceUnitConverteer\bin\WcfServiceUnitConverteer.dll
+C:\Users\attak\OneDrive - Leeds Beckett University\Cloud Computing\UnitConverterCloudService\WcfServiceUnitConverteer\WcfServiceUnitConverteer\bin\WcfServiceUnitConverteer.pdb
+C:\Users\attak\OneDrive - Leeds Beckett University\Cloud Computing\UnitConverterCloudService\WcfServiceUnitConverteer\WcfServiceUnitConverteer\obj\Debug\WcfServiceUnitConverteer.csproj.AssemblyReference.cache
+C:\Users\attak\OneDrive - Leeds Beckett University\Cloud Computing\UnitConverterCloudService\WcfServiceUnitConverteer\WcfServiceUnitConverteer\obj\Debug\WcfServiceUnitConverteer.csproj.CoreCompileInputs.cache
+C:\Users\attak\OneDrive - Leeds Beckett University\Cloud Computing\UnitConverterCloudService\WcfServiceUnitConverteer\WcfServiceUnitConverteer\obj\Debug\WcfServiceUnitConverteer.dll
+C:\Users\attak\OneDrive - Leeds Beckett University\Cloud Computing\UnitConverterCloudService\WcfServiceUnitConverteer\WcfServiceUnitConverteer\obj\Debug\WcfServiceUnitConverteer.pdb
